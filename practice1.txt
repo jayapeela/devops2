@@ -1,0 +1,4 @@
+My first devops class practice
+creating git hub and initialising repo in c,jaya,devops
+creating file with vi
+naming as practice1
